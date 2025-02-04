@@ -51,7 +51,7 @@ main {
     padding: 20px;
     max-width: 800px; /* Limit the width of the main content */
     margin: auto; /* Center the main content */
-    background: #0f0046; /* White background for main content */
+    background: #2300a1; /* White background for main content */
     border-radius: 8px; /* Rounded corners */
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
 }
@@ -89,7 +89,7 @@ body {
 
 /* Header styles */
 header {
-    background: #000933; /* Blue background */
+    background: #0126ca; /* Blue background */
     color: #fff; /* White text */
     padding: 20px 0;
     text-align: center;
@@ -126,7 +126,7 @@ main {
     padding: 20px;
     max-width: 800px; /* Limit the width of the main content */
     margin: auto; /* Center the main content */
-    background: #01004b; /* White background for main content */
+    background: #02006b; /* White background for main content */
     border-radius: 8px; /* Rounded corners */
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
 }
@@ -472,10 +472,7 @@ main {
 
 footer {
     text-align: center;
-    padding: 10px 0;
-    background: #f4f4f4; 
-    position: relative;
-    bottom: 0;
-    width: 100%;
-    margin-top: 20px; 
-}
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+  }
